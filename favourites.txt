@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Samosa
 briyani
 chat
+=======
+MI -1
+MI -2
+MI -3
+>>>>>>> movies
